@@ -1,0 +1,11 @@
+{
+  "order_id": "ORD-001",
+  "calculated_risk_level": "NORMAL",
+  "matched_vulnerabilities": [],
+  "summary_brief": "Order ORD-001 matches all criteria for standard logistics operations.",
+  "action_items": [
+    "Release order to standard warehouse pipeline."
+  ],
+  "escalation_triggered": false,
+  "escalation_contacts": []
+}

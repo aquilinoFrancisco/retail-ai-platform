@@ -1,0 +1,15 @@
+{
+  "order_id": "ORD-2026-9901",
+  "calculated_risk_level": "CRITICAL",
+  "matched_vulnerabilities": [
+    "Suspicious Transaction - High Fraud Risk"
+  ],
+  "summary_brief": "CRITICAL RISK MATCHED: High fraud probability.",
+  "action_items": [
+    "LOSS PREVENTION MANDATE: Hold shipment."
+  ],
+  "escalation_triggered": true,
+  "escalation_contacts": [
+    "lossprevention@retail-agentic.com"
+  ]
+}

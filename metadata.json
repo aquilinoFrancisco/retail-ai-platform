@@ -1,0 +1,6 @@
+{
+  "name": "Retail Agentic Platform Visualizer",
+  "description": "Interactive architectural visualizer and portfolio workspace showcasing the retail-agentic-platform AI agentic system designed for a Senior Backend Engineer role.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

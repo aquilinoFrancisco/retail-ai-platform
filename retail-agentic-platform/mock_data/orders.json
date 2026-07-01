@@ -1,0 +1,226 @@
+{
+  "ORD-2026-9901": {
+    "order_id": "ORD-2026-9901",
+    "customer": {
+      "name": "Jane Miller",
+      "email": "jmiller99@fake-email.com",
+      "loyalty_tier": "VIP"
+    },
+    "payment": {
+      "amount": 1499.00,
+      "method": "Credit Card",
+      "fraud_score": 87,
+      "ip_address": "203.0.113.19",
+      "risk_flag": true
+    },
+    "items": [
+      {
+        "sku": "SKU-HEADSET-99",
+        "name": "UltraSound ANC VR Headset",
+        "quantity": 1,
+        "price": 1499.00
+      }
+    ],
+    "fulfillment": {
+      "status": "Awaiting Stock",
+      "warehouse_id": "WH-NORTH-EAST",
+      "tracking_number": "TRK-FEDEX-9910"
+    }
+  },
+  "ORD-2026-1102": {
+    "order_id": "ORD-2026-1102",
+    "customer": {
+      "name": "Robert Chen",
+      "email": "rchen_design@fake-email.com",
+      "loyalty_tier": "Regular"
+    },
+    "payment": {
+      "amount": 49.99,
+      "method": "PayPal",
+      "fraud_score": 12,
+      "ip_address": "198.51.100.82",
+      "risk_flag": false
+    },
+    "items": [
+      {
+        "sku": "SKU-CABLE-05",
+        "name": "Braided USB-C Charging Cable",
+        "quantity": 2,
+        "price": 24.99
+      }
+    ],
+    "fulfillment": {
+      "status": "In Transit",
+      "warehouse_id": "WH-WEST-COAST",
+      "tracking_number": "TRK-UPS-5412"
+    }
+  },
+  "ORD-2026-2203": {
+    "order_id": "ORD-2026-2203",
+    "customer": {
+      "name": "Sarah Jenkins",
+      "email": "sjenkins-vip@fake-email.com",
+      "loyalty_tier": "VIP"
+    },
+    "payment": {
+      "amount": 250.00,
+      "method": "Credit Card",
+      "fraud_score": 92,
+      "ip_address": "192.0.2.55",
+      "risk_flag": true
+    },
+    "items": [
+      {
+        "sku": "SKU-THERM-32",
+        "name": "Smart Sensor Thermostat",
+        "quantity": 1,
+        "price": 250.00
+      }
+    ],
+    "fulfillment": {
+      "status": "Awaiting Stock",
+      "warehouse_id": "WH-MIDWEST",
+      "tracking_number": "TRK-DHL-4420"
+    }
+  },
+  "ORD-2026-3304": {
+    "order_id": "ORD-2026-3304",
+    "customer": {
+      "name": "David Miller",
+      "email": "dmiller-corp@fake-email.com",
+      "loyalty_tier": "Regular"
+    },
+    "payment": {
+      "amount": 349.99,
+      "method": "Credit Card",
+      "fraud_score": 5,
+      "ip_address": "198.51.100.105",
+      "risk_flag": false
+    },
+    "items": [
+      {
+        "sku": "SKU-CHAIR-11",
+        "name": "Ergonomic Office Chair",
+        "quantity": 1,
+        "price": 349.99
+      }
+    ],
+    "fulfillment": {
+      "status": "Delivered",
+      "warehouse_id": "WH-WEST-COAST",
+      "tracking_number": "TRK-UPS-2009"
+    }
+  },
+  "ORD-2026-4405": {
+    "order_id": "ORD-2026-4405",
+    "customer": {
+      "name": "Elena Rostova",
+      "email": "erostova-luxe@fake-email.com",
+      "loyalty_tier": "VIP"
+    },
+    "payment": {
+      "amount": 899.00,
+      "method": "Credit Card",
+      "fraud_score": 79,
+      "ip_address": "185.112.14.99",
+      "risk_flag": true
+    },
+    "items": [
+      {
+        "sku": "SKU-MONITOR-01",
+        "name": "OLED Gaming Monitor",
+        "quantity": 1,
+        "price": 899.00
+      }
+    ],
+    "fulfillment": {
+      "status": "Shipped",
+      "warehouse_id": "WH-NORTH-EAST",
+      "tracking_number": "TRK-FEDEX-3011"
+    }
+  },
+  "ORD-2026-5506": {
+    "order_id": "ORD-2026-5506",
+    "customer": {
+      "name": "Marcus Vance",
+      "email": "mvance90@fake-email.com",
+      "loyalty_tier": "Regular"
+    },
+    "payment": {
+      "amount": 199.99,
+      "method": "Apple Pay",
+      "fraud_score": 45,
+      "ip_address": "203.0.113.144",
+      "risk_flag": false
+    },
+    "items": [
+      {
+        "sku": "SKU-EARBUDS-08",
+        "name": "Noise Cancelling Earbuds",
+        "quantity": 1,
+        "price": 199.99
+      }
+    ],
+    "fulfillment": {
+      "status": "In Transit",
+      "warehouse_id": "WH-SOUTH-WEST",
+      "tracking_number": "TRK-UPS-8891"
+    }
+  },
+  "ORD-2026-6607": {
+    "order_id": "ORD-2026-6607",
+    "customer": {
+      "name": "Priya Patel",
+      "email": "ppatel-tech@fake-email.com",
+      "loyalty_tier": "VIP"
+    },
+    "payment": {
+      "amount": 150.00,
+      "method": "Credit Card",
+      "fraud_score": 15,
+      "ip_address": "198.51.100.201",
+      "risk_flag": false
+    },
+    "items": [
+      {
+        "sku": "SKU-KEYBOARD-22",
+        "name": "Mechanical Keyboard RGB",
+        "quantity": 1,
+        "price": 150.00
+      }
+    ],
+    "fulfillment": {
+      "status": "Shipped",
+      "warehouse_id": "WH-MIDWEST",
+      "tracking_number": "TRK-FEDEX-4456"
+    }
+  },
+  "ORD-2026-7708": {
+    "order_id": "ORD-2026-7708",
+    "customer": {
+      "name": "Tom Henderson",
+      "email": "thenderson91@fake-email.com",
+      "loyalty_tier": "Guest"
+    },
+    "payment": {
+      "amount": 89.50,
+      "method": "Credit Card",
+      "fraud_score": 8,
+      "ip_address": "203.0.113.250",
+      "risk_flag": false
+    },
+    "items": [
+      {
+        "sku": "SKU-POWER-03",
+        "name": "Portable Power Bank",
+        "quantity": 1,
+        "price": 89.50
+      }
+    ],
+    "fulfillment": {
+      "status": "Awaiting Stock",
+      "warehouse_id": "WH-WEST-COAST",
+      "tracking_number": "TRK-UPS-1103"
+    }
+  }
+}

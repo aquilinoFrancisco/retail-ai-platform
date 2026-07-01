@@ -1,0 +1,82 @@
+[
+  {
+    "ticket_id": "TCK-4491",
+    "order_id": "ORD-2026-9901",
+    "customer_name": "Jane Miller",
+    "created_at": "2026-06-29T10:00:00Z",
+    "subject": "Fulfillment Delay and Billing Dispute",
+    "description": "My headset has not shipped! I paid extra for express delivery. Also, my credit card company flagged a double authorization charge. I want this resolved immediately or I will file a chargeback!",
+    "sentiment_score": 0.12,
+    "urgency": "CRITICAL"
+  },
+  {
+    "ticket_id": "TCK-1002",
+    "order_id": "ORD-2026-1102",
+    "customer_name": "Robert Chen",
+    "created_at": "2026-06-30T09:12:00Z",
+    "subject": "Add shipping instructions",
+    "description": "Please leave the box behind the black gate. Thank you!",
+    "sentiment_score": 0.85,
+    "urgency": "LOW"
+  },
+  {
+    "ticket_id": "TCK-5523",
+    "order_id": "ORD-2026-2203",
+    "customer_name": "Sarah Jenkins",
+    "created_at": "2026-06-30T06:45:00Z",
+    "subject": "VIP Order Cancellation Request",
+    "description": "My smart thermostat is on backorder customs hold but my home heating system is currently broken! Please cancel this immediately or ship it today. This is unacceptable for a VIP member.",
+    "sentiment_score": 0.15,
+    "urgency": "HIGH"
+  },
+  {
+    "ticket_id": "TCK-2001",
+    "order_id": "ORD-2026-3304",
+    "customer_name": "David Miller",
+    "created_at": "2026-06-29T18:30:00Z",
+    "subject": "Feedback - Great product!",
+    "description": "The ergonomic office chair arrived exactly on time and has completely relieved my back strain. Thank you for the fast shipping!",
+    "sentiment_score": 0.95,
+    "urgency": "LOW"
+  },
+  {
+    "ticket_id": "TCK-6611",
+    "order_id": "ORD-2026-4405",
+    "customer_name": "Elena Rostova",
+    "created_at": "2026-06-30T08:05:00Z",
+    "subject": "Stolen Account & Unauthorized Charge",
+    "description": "There is a pending charge on my credit card for $899.00 and an order for a gaming monitor has been placed under my account. I did not purchase this! My profile must have been hacked. Block this shipment immediately!",
+    "sentiment_score": 0.08,
+    "urgency": "CRITICAL"
+  },
+  {
+    "ticket_id": "TCK-8890",
+    "order_id": "ORD-2026-5506",
+    "customer_name": "Marcus Vance",
+    "created_at": "2026-06-30T10:11:00Z",
+    "subject": "Earbuds return policy query",
+    "description": "Hello, I just wanted to verify if I can return these earbud units if they do not fit comfortably in my ears? What is the window for accessory returns?",
+    "sentiment_score": 0.45,
+    "urgency": "MEDIUM"
+  },
+  {
+    "ticket_id": "TCK-4422",
+    "order_id": "ORD-2026-6607",
+    "customer_name": "Priya Patel",
+    "created_at": "2026-06-29T11:55:00Z",
+    "subject": "Wrong shipping address",
+    "description": "Oops, I noticed the delivery address is set to my old apartment address. Can you please correct the address to my current flat before it is delivered by FedEx?",
+    "sentiment_score": 0.32,
+    "urgency": "HIGH"
+  },
+  {
+    "ticket_id": "TCK-1105",
+    "order_id": "ORD-2026-7708",
+    "customer_name": "Tom Henderson",
+    "created_at": "2026-06-30T11:22:00Z",
+    "subject": "Out of stock notice refund",
+    "description": "My power bank is delayed on supplier shortage and has not shipped. Can you please cancel this order and issue a full refund back to my card? I will buy it elsewhere.",
+    "sentiment_score": 0.22,
+    "urgency": "HIGH"
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "SKU-HEADSET-99": {
+    "sku": "SKU-HEADSET-99",
+    "allocated_warehouse": "WH-NORTH-EAST",
+    "stock_on_hand": 0,
+    "reserved": 12,
+    "backorder_lead_days": 14,
+    "replenishment_status": "Delayed - Customs Hold",
+    "unit_cost": 850.00
+  },
+  "SKU-CABLE-05": {
+    "sku": "SKU-CABLE-05",
+    "allocated_warehouse": "WH-WEST-COAST",
+    "stock_on_hand": 450,
+    "reserved": 21,
+    "backorder_lead_days": 0,
+    "replenishment_status": "Normal",
+    "unit_cost": 8.50
+  },
+  "SKU-THERM-32": {
+    "sku": "SKU-THERM-32",
+    "allocated_warehouse": "WH-MIDWEST",
+    "stock_on_hand": 0,
+    "reserved": 5,
+    "backorder_lead_days": 21,
+    "replenishment_status": "On Hold - Factory Defect Audit",
+    "unit_cost": 120.00
+  },
+  "SKU-CHAIR-11": {
+    "sku": "SKU-CHAIR-11",
+    "allocated_warehouse": "WH-WEST-COAST",
+    "stock_on_hand": 85,
+    "reserved": 8,
+    "backorder_lead_days": 0,
+    "replenishment_status": "Normal",
+    "unit_cost": 180.00
+  },
+  "SKU-MONITOR-01": {
+    "sku": "SKU-MONITOR-01",
+    "allocated_warehouse": "WH-NORTH-EAST",
+    "stock_on_hand": 3,
+    "reserved": 3,
+    "backorder_lead_days": 7,
+    "replenishment_status": "Normal",
+    "unit_cost": 550.00
+  },
+  "SKU-EARBUDS-08": {
+    "sku": "SKU-EARBUDS-08",
+    "allocated_warehouse": "WH-SOUTH-WEST",
+    "stock_on_hand": 120,
+    "reserved": 15,
+    "backorder_lead_days": 0,
+    "replenishment_status": "Normal",
+    "unit_cost": 95.00
+  },
+  "SKU-KEYBOARD-22": {
+    "sku": "SKU-KEYBOARD-22",
+    "allocated_warehouse": "WH-MIDWEST",
+    "stock_on_hand": 45,
+    "reserved": 6,
+    "backorder_lead_days": 0,
+    "replenishment_status": "Normal",
+    "unit_cost": 75.00
+  },
+  "SKU-POWER-03": {
+    "sku": "SKU-POWER-03",
+    "allocated_warehouse": "WH-WEST-COAST",
+    "stock_on_hand": 0,
+    "reserved": 18,
+    "backorder_lead_days": 10,
+    "replenishment_status": "Delayed - Supplier Shortage",
+    "unit_cost": 42.00
+  }
+}
