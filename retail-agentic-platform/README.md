@@ -4,7 +4,7 @@ An enterprise-grade, stateful AI orchestration system designed to detect and tri
 
 This project is built as a backend portfolio demonstrating clean architecture for a **Senior Backend Engineer — AI Agentic Platform** role.
 
-## 🏗️ Technical Stack
+## Technical Stack
 - **Python 3.11** - Main backend runtime
 - **FastAPI** - High-performance async API framework with streaming endpoints
 - **LangGraph** - Deterministic state machine and agent workflow orchestration
@@ -13,7 +13,7 @@ This project is built as a backend portfolio demonstrating clean architecture fo
 - **Local RAG** - Text similarity knowledge retrieval for dynamic SLA escalations
 - **Mock Data Layer** - Pre-configured retail schemas simulating production anomalies
 
-## 📁 Repository Structure
+## Repository Structure
 ```
 retail-agentic-platform/
 ├── app/
@@ -46,7 +46,7 @@ retail-agentic-platform/
     └── risk_framework.md        # Operational risk evaluation tiers
 ```
 
-## 🔁 Workflow Pipeline
+## Workflow Pipeline
 1. **`collect_data`**: Aggregates order info, inventory statuses, carrier tracking events, and active customer support tickets using MCP tools.
 2. **`analyze_operational_risk`**: Spins up the CrewAI swarm to identify correlation between stockouts, delivery exceptions, and fraud flags.
 3. **`evaluate_risk_level`**: Evaluates whether the calculated exposure exceeds SLA limits, classifying it as `CRITICAL` or `NORMAL`.
